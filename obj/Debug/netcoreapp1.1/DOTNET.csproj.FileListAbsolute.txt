@@ -1,0 +1,9 @@
+F:\Rydog\Lynda\DOTNET\bin\Debug\netcoreapp1.1\DOTNET.deps.json
+F:\Rydog\Lynda\DOTNET\bin\Debug\netcoreapp1.1\DOTNET.runtimeconfig.json
+F:\Rydog\Lynda\DOTNET\bin\Debug\netcoreapp1.1\DOTNET.runtimeconfig.dev.json
+F:\Rydog\Lynda\DOTNET\bin\Debug\netcoreapp1.1\DOTNET.dll
+F:\Rydog\Lynda\DOTNET\bin\Debug\netcoreapp1.1\DOTNET.pdb
+F:\Rydog\Lynda\DOTNET\obj\Debug\netcoreapp1.1\DOTNET.csproj.CoreCompileInputs.cache
+F:\Rydog\Lynda\DOTNET\obj\Debug\netcoreapp1.1\DOTNET.AssemblyInfo.cs
+F:\Rydog\Lynda\DOTNET\obj\Debug\netcoreapp1.1\DOTNET.dll
+F:\Rydog\Lynda\DOTNET\obj\Debug\netcoreapp1.1\DOTNET.pdb
